@@ -1,0 +1,8 @@
+{
+    "dut_file": "./rtl/counter.sv",
+    "dut_name": "counter",
+    "waveform_format": "vcd",
+
+    "probe": [ "sig1", "sig2", "sig3"]
+
+}

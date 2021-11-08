@@ -1,0 +1,10 @@
+build
+node_modules
+logs
+obj_dir
+cppsrc/signals.cpp
+cppsrc/signals.h
+*~
+#*
+.#*
+*#
